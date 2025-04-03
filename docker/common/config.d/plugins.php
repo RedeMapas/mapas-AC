@@ -6,5 +6,6 @@ return [
         'SamplePlugin' => ['namespace' => 'SamplePlugin'],
         'SpamDetector',
         'Accessibility' => ['namespace' => 'Accessibility'],
+        'Analytics' => ['namespace' => 'Analytics'],
     ]
 ];
