@@ -7,5 +7,6 @@ return [
         'SpamDetector',
         'Accessibility' => ['namespace' => 'Accessibility'],
         'Analytics' => ['namespace' => 'Analytics'],
+        'RecreatePCacheOnLogin' => ['namespace' => 'RecreatePCacheOnLogin'],
     ]
 ];
