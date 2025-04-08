@@ -1,6 +1,6 @@
 <?php
 
-namespace MapasMA;
+namespace MapasAC;
 
 use MapasCulturais\App;
 
