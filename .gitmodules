@@ -19,6 +19,3 @@
 [submodule "plugins/MapasBlame"]
 	path = plugins/MapasBlame
 	url = https://github.com/mapasculturais/plugin-MapasBlame
-[submodule "plugins/SpamDetector"]
-	path = plugins/SpamDetector
-	url = https://github.com/mapasculturais/plugin-SpamDetector
