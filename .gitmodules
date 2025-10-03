@@ -1,6 +1,9 @@
 [submodule "plugins/MultipleLocalAuth"]
 	path = plugins/MultipleLocalAuth
 	url = https://github.com/mapasculturais/plugin-MultipleLocalAuth
+[submodule "plugins/SpamDetector"]
+	path = plugins/SpamDetector
+	url = https://github.com/mapasculturais/plugin-SpamDetector.git
 [submodule "plugins/Accessibility"]
 	path = plugins/Accessibility
 	url = https://github.com/mapasculturais/plugin-Accessibility
@@ -16,6 +19,3 @@
 [submodule "plugins/MapasBlame"]
 	path = plugins/MapasBlame
 	url = https://github.com/mapasculturais/plugin-MapasBlame
-[submodule "plugins/SpamDetector"]
-	path = plugins/SpamDetector
-	url = https://github.com/mapasculturais/plugin-SpamDetector
