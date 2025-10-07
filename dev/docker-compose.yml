@@ -28,7 +28,6 @@ services:
       - ../plugins/RecreatePCacheOnLogin:/var/www/src/plugins/RecreatePCacheOnLogin
       - ../plugins/AdminLoginAsUser:/var/www/src/plugins/AdminLoginAsUser
       - ../plugins/MapasBlame:/var/www/src/plugins/MapasBlame
-      - ../plugins/SpamDetector:/var/www/src/plugins/SpamDetector
 
       - ../themes/MapasAC:/var/www/src/themes/MapasAC
 
